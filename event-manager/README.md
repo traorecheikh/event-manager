@@ -1,4 +1,4 @@
-# 🎉 Event Manager - Plan & Organize Like a Pro
+# Event Manager - Plan & Organize Like a Pro
 
 ![Event Manager Banner](https://img.shields.io/badge/Event%20Manager-v1.0.0-5E60CE?style=for-the-badge)
 
@@ -21,12 +21,20 @@ Check out the [live demo](https://eventmanager-demo.example.com) (coming soon)
 
 <table>
   <tr>
-    <td><img src="https://placeholder.pics/svg/300x200/5E60CE-64DFDF/FFFFFF/Dashboard" alt="Dashboard" width="100%"/></td>
-    <td><img src="https://placeholder.pics/svg/300x200/6930C3-5E60CE/FFFFFF/Event%20Form" alt="Event Form" width="100%"/></td>
+    <td>
+    <img src="screen/screen.png" alt="Dashboard" width="1828" />
+</td>
   </tr>
-  <tr>
-    <td><img src="https://placeholder.pics/svg/300x200/64DFDF-80FFDB/FFFFFF/Login" alt="Login" width="100%"/></td>
-    <td><img src="https://placeholder.pics/svg/300x200/7400B8-5E60CE/FFFFFF/Mobile%20View" alt="Mobile View" width="100%"/></td>
+    <td>
+    <img src="screen/screen1.png" alt="Dashboard" width="1828" />
+</td>
+  <tr>   
+<td>
+    <img src="screen/screen2.png" alt="Dashboard" width="1828" />
+</td>   
+<td>
+    <img src="screen/screen3.png" alt="Dashboard" width="1828" />
+</td>
   </tr>
 </table>
 
@@ -118,14 +126,14 @@ frontend/
     └── App.jsx     # Application entry
 ```
 
-## 🌈 Design Principles
+## Design Principles
 
-We built Event Manager with these principles in mind:
+Built Event Manager with these principles in mind:
 
-- **Visual Delight:** Beautiful gradients, subtle animations, and thoughtful spacing
+- **Visual Delight:** Thoughtful spacing
 - **Intuitive Flow:** Clear pathways for users to accomplish their goals
 - **Consistent Design Language:** Cohesive experience across all pages and components
-- **Performance First:** Fast load times and smooth interactions
+- **Performance First:** Smooth interactions
 - **Accessibility:** Designed to be usable by everyone
 
 ## 📱 Responsive Behavior
@@ -163,16 +171,6 @@ cd frontend
 npm test
 ```
 
-## 🤝 Contributing
-
-I'd love your contributions! Here's how you can help:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin amazing-feature`) 
-5. Open a Pull Request
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -181,10 +179,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Got questions or feedback? Reach out to me:
 
-- [Twitter](https://twitter.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Email](mailto:your.email@example.com)
+- [Email](mailto:atidiane741@gmail.com)
 
 ---
-
-Made with ❤️ and lots of ☕
